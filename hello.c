@@ -7,5 +7,5 @@ int main()
     {
         printf("%d\n", A[i]);
     }
-    printf("sizeof array: %d\n", (int)sizeof(A));
+    printf("sizeof array: %d\n.", (int)sizeof(A));
 }
